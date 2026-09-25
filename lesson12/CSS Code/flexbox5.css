@@ -15,6 +15,7 @@ div {
 
 .home-link {
   font-weight: bold;
+  cursor:pointer;
 }
 
 .text-box {
@@ -39,4 +40,5 @@ button {
   padding-bottom: 8px;
   padding-left: 15px;
   padding-right: 15px;
+  cursor:pointer;
 }
